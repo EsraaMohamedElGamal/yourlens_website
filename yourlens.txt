@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>  YOUR LENS </title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script src="jquery-3.6.0.min.js"> </script>
+ 
+</head>
+
+
+<body>
+
+<!sitename>
+
+<div class="header">
+
+<div class="sitename">
+<img id="logo" src="cameraicon.svg" width="35px" height="35px" alt="thers is a problem in the load">
+<h4>YOUR LENS</h4>
+
+</div> 
+
+<ul class="links" class="active">
+<li>  <a href="#features" class="link" > Features </a> </li>
+<li>  <a href="#products" class="link" > products </a> </li>
+</ul>
+
+</div>
+
+
+ 
+
+<!websitebackground>
+
+<div class="section1">
+<div class="subsection1">
+<div class="facetext">
+<h1 id="paragraph1"> ONE<br>EYE<br>OPEN </h1>
+<h2 id="paragraph2"> Better Way to learn more<br>about cameras </h2>
+<h3 id="paragraph3"> collect more informations about the features<br>and prices of cameras you want</h3> 
+ 
+</div>
+<div class="img">
+<img src="lens1.jpg" alt ="ther is problem" >
+</div>
+</div>
+</div>  
+
+
+
+<!features>
+
+<div class="section2" id="features" >
+
+<div class="subsection2">
+<h4> Why we are your best choice </h4>
+
+<div class="features">
+
+<div class="qualities">
+<h3> Return and exchange </h3>
+<p> within 7 days </p>
+</div>
+
+ 
+<div class="qualities">
+<h3> Many Choices </h3>
+<p> we have latest versions </p>
+</div>
+
+<div class="qualities">
+<h3> Customer service </h3>
+<p> during the day to solve your problems </p>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<!products>
+
+<div class="section3">
+
+<div class="subsection3" id="products">
+<h4> Our Products </h4>
+
+<div class="cameras">
+
+
+<!number1>
+
+<div class="camera">
+<img src="camera2.jpg" alt="there is problem in the load" width="" height="">
+<h3> Sony A7R IV </h3>
+<ul>
+<li> Price: 74,003 EGP   </li> 
+<li> Type: Mirrorless </li>
+<li> Sensor: Full frame </li>
+<li> ISO Range: 100-32,000 </li>
+<li> Weight: 23.5 oz / 665g </li>
+<li> Video capability: 4K 30FPS </li>
+<li> Memory card type: Dual UHS-II SD </li>
+</ul>
+
+</div>
+
+
+<!number2>
+
+<div class="camera">
+<img src="camera4.jpg" alt="there is problem in the load" width="" height="">
+<h3> Canon EOS R7 </h3>
+<ul> 
+<li> Price: 48,999 EGP   </li> 
+<li> Type: Mirrorless </li>
+<li> SLens mount: RF </li>
+<li> ISO range: 100-32000  </li>
+<li> Weight: 1.17 lbs  </li>
+<li> Video capability: 4K / 60p </li>
+<li> Memory card type: 2x SD/SDHC/SDXC and UHS-II </li>
+</ul>
+
+</div>
+
+
+ <!number3>
+
+<div class="camera">
+<img src="camera5.jpg" alt="there is problem in the load" width="" height="">
+<h3> Sony A7 III </h3>
+<ul> 
+<li> Price: 54,450 EGP   </li> 
+<li> Type: Mirrorless </li>
+<li> Sensor: 24.2MP, Full-frame 35mm </li>
+<li> ISO range: 50-51200  </li>
+<li> Weight: 650g  </li>
+<li> Lens mount: E-mount </li>
+<li> Memory card type: 1x SD/SDHC/SDXC </li>
+</ul>
+
+</div>
+
+<!number4>
+
+<div class="camera">
+<img src="camera7.jpg" alt="there is problem in the load" width="" height="">
+<h3> Sony A1 </h3>
+<ul> 
+<li> Price: 242,602 EGP   </li>
+<li> Type: Full-frame mirrorless </li>
+<li> Sensor: 50.1 MP </li>
+<li> ISO range: ISO 50 to 102400  </li>
+<li> Weight: 726g   </li>
+<li> Video capability: 8K 30P, 4K 120P </li>
+ 
+</ul>
+
+</div>
+
+<!number5>
+
+<div class="camera">
+<img src="camera6.jpg" alt="there is problem in the load" width="" height="">
+<h3> Nikon D850 </h3>
+<ul> 
+<li> Price: 98,000 EGP   </li>
+<li> Type: DSLR </li>
+<li> Sensor: 45.4MP, Full-frame 35mm </li>
+<li> ISO range: 64-25600  </li>
+<li> Weight: 915g  </li>
+<li> Video capability: 4K UHD 30FPS </li>
+ 
+</ul>
+
+</div>
+
+
+<!number6>
+
+<div class="camera">
+<img src="camera3.jpg" alt="there is problem in the load" width="" height="">
+<h3> Nikon Z9 </h3>
+<ul> 
+<li> Price: 198,000 EGP   </li>
+<li> Type: : Z-series mirrorless </li>
+<li> Sensor: 45.7MP, stacked full-frame </li>
+<li> ISO range: 64-256,000  </li>
+<li> Weight: 1340g </li>
+<li> Video capability: 8K 60FPS, 4K 120FPS </li>
+<li> Memory card type: CFexpress type B or XQD card </li>
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+
+ 
+<!evalauation>
+<div class="rate">
+
+<div class= "evaluation">
+<h4> your rating of website </h4>
+<input type="button" value="send your rating" onclick="msg()"/>  
+
+</div>
+
+</div>
+
+
+
+<!footer>
+
+<div class="section4">
+
+<div class="subsection4">
+
+<p> we hope that we have provided enough information that you are looking for </p>
+
+<div class="socialicons">
+
+<img src="twitter.svg">
+<img src="instagram.svg">
+<img src="facebook.svg"> 
+</div>
+ 
+</div>
+
+</div>
+
+
+<script src="java.js"></script>
+
+
+</body>
+
+</html>
